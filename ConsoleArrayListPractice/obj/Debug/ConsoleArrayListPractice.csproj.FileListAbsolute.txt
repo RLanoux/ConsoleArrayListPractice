@@ -1,0 +1,6 @@
+c:\users\raymond\documents\visual studio 2012\Projects\ConsoleArrayListPractice\ConsoleArrayListPractice\bin\Debug\ConsoleArrayListPractice.exe.config
+c:\users\raymond\documents\visual studio 2012\Projects\ConsoleArrayListPractice\ConsoleArrayListPractice\bin\Debug\ConsoleArrayListPractice.exe
+c:\users\raymond\documents\visual studio 2012\Projects\ConsoleArrayListPractice\ConsoleArrayListPractice\bin\Debug\ConsoleArrayListPractice.pdb
+c:\users\raymond\documents\visual studio 2012\Projects\ConsoleArrayListPractice\ConsoleArrayListPractice\obj\Debug\ConsoleArrayListPractice.csprojResolveAssemblyReference.cache
+c:\users\raymond\documents\visual studio 2012\Projects\ConsoleArrayListPractice\ConsoleArrayListPractice\obj\Debug\ConsoleArrayListPractice.exe
+c:\users\raymond\documents\visual studio 2012\Projects\ConsoleArrayListPractice\ConsoleArrayListPractice\obj\Debug\ConsoleArrayListPractice.pdb
